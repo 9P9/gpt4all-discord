@@ -1,0 +1,18 @@
+{
+  "name": "chat-bot",
+  "version": "1.0.0",
+  "description": "Simple AI Chat-Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "ai"
+  ],
+  "author": "Luci",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "eris": "^0.17.2"
+  }
+}
