@@ -8,7 +8,7 @@ Download the `gpt4all-lora-quantized.bin` file from [Direct Link](https://the-ey
 
 ### Where to Put the Model:
 
-Ensure the model is in the main directory! 
+Ensure the model is in the main directory! Along with exe
 
 ```
 let GPT = new GPT4('./gpt4all-lora-quantized-win64'); 
