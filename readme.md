@@ -19,4 +19,6 @@ let GPT = new GPT4('./gpt4all-lora-quantized-win64');
 	- node index.js
 
 
-Related Repos: [GPT4ALL](https://github.com/nomic-ai/gpt4all) & [Unmodified gpt4all Wrapper](https://github.com/realrasengan/gpt4all-wrapper-js)
+Related Repos:
+	- [GPT4ALL](https://github.com/nomic-ai/gpt4all)
+	- [Unmodified gpt4all Wrapper](https://github.com/realrasengan/gpt4all-wrapper-js)
