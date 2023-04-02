@@ -1,6 +1,6 @@
 ﻿## Simple Discord AI using GPT4ALL
 
-### Chat bot using AI generated responses using the GPT4ALL data-set
+This is a chat bot that uses AI-generated responses using the GPT4ALL data-set.
 
 ### How to get the GPT4ALL model! 
 
