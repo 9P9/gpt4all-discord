@@ -12,7 +12,6 @@
   "author": "Luci",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^3.0.0",
     "eris": "^0.17.2"
   }
 }
