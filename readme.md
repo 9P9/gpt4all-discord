@@ -15,10 +15,10 @@ If you're using a different platform ensure you use the correct binary for your 
 Then Adjust the code in index.js to fit: 
 
 ```	
-	let GPT = new GPT4('./ai/gpt4all-lora-quantized-win64'); //Windows
-	let GPT = new GPT4('./ai/gpt4all-lora-quantized-OSX-m1'); //M1 Mac/OSX
-	let GPT = new GPT4('./ai/gpt4all-lora-quantized-OSX-intel'); //Intel Mac/OSX
-	let GPT = new GPT4('./ai/gpt4all-lora-quantized-linux-x86'); //Linux
+let GPT = new GPT4('./ai/gpt4all-lora-quantized-win64'); //Windows
+let GPT = new GPT4('./ai/gpt4all-lora-quantized-OSX-m1'); //M1 Mac/OSX
+let GPT = new GPT4('./ai/gpt4all-lora-quantized-OSX-intel'); //Intel Mac/OSX
+let GPT = new GPT4('./ai/gpt4all-lora-quantized-linux-x86'); //Linux
 ```
 
 ### How to Run!
