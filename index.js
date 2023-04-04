@@ -1,5 +1,4 @@
 const Eris = require("eris");
-const chalk = require('chalk');
 const GPT4 = require('./gpt.js');
 
 let token = "";
@@ -21,7 +20,7 @@ class Bot {
 	}
 	async start(){
 		this.bot.on("ready", () => { 
-			console.log(chalk.hex("ff7e15")(`[${chalk.white('!')}] Logged into (${this.bot.user.id})`));
+			console.log(`Logged into (${this.bot.user.id})`);
 		});
 		this.bot.on("messageCreate", async (msg) => { 
 			try{
